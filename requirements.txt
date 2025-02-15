@@ -1,0 +1,12 @@
+# 基础网络和数据处理
+socket
+json
+struct
+threading
+
+# 数据库相关（根据DatabaseManager的实现可能需要）
+pymysql>=1.0.2
+
+# 其他可能的依赖（如果有使用到）
+# cryptography>=3.4.7  # 如果需要加密
+# python-dotenv>=0.19.0  # 如果需要环境变量管理 
