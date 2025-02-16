@@ -1,6 +1,7 @@
 # 多人在线游戏服务器
 
 这是一个基于Python Socket实现的多人在线游戏服务器，支持房间系统、状态同步、物品交互等功能。
+本项目配合[Decode_Game_Client](https://github.com/yugaoxiang123/Decode_Game_Client)服务端使用。
 
 ## 功能特性
 
